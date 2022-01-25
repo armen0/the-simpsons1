@@ -1,0 +1,17 @@
+body {
+    position: relative;
+width: 1600px;
+height: 8769px;
+
+background: #F2FAFE;
+}
+.header{
+    
+position: absolute;
+width: 1600px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: #8AC5EC;
+}
