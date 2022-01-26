@@ -1,17 +1,140 @@
 body {
     position: relative;
-width: 1600px;
-height: 8769px;
-
-background: #F2FAFE;
+    width: 1200px;
+    background: #F2FAFE;
+    margin: 0px;
 }
-.header{
+div.header{
     
-position: absolute;
-width: 1600px;
-height: 900px;
-left: 0px;
-top: 0px;
+    position: absolute;
+    width: 1432px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    
+    background: #8AC5EC;
+}
+div.sky{
+    position: absolute;
+width: 1432px;
+height: 912px;
+left: 84px;
+top: 64px;
+}
+div.menu a{
+    position: absolute;
+    /* width: 70px; */
+    height: 33px;
+    top: 50px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 33px;
+    color: #000000;
+    text-decoration-line: none;
+}
+a.menu-about{
+    left: 440px;
+}
+a.menu-characters{
+    left: 540px;
+}
+a.menu-episodes{
+    left: 700px;
+}
+a.menu-wiki{
+    left: 835px;
+}
+img.logo{
+    position: absolute;
+    width: 150px;
+    left: 80px;
+    top: 50px;
+}
+h1{
+    position: absolute;
+    width: 362px;
+    height: 84px;
+    left: 80px;
+    top: 152px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 84px;
+    color: #000000;
+}
+p{
+    position: absolute;
+    width: 557px;
+    height: 150px;
+    left: 80px;
+    top: 288px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 42px;
+    color: #555555;
+}
 
-background: #8AC5EC;
+button.button-watch-now{
+    position: absolute;
+    width: 437px;
+    height: 69px;
+    left: 80px;
+    top: 525px;
+    background: #FAE04B;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 5px 4px 4px #000000;
+    border-radius: 64px;
+}
+
+a.watch-now{
+    position: absolute;
+    width: 172px;
+    height: 42px;
+    left: 130px;
+    top: 10px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 42px;
+    color: #000000;
+}
+
+button.button-trailer{
+    position: absolute;
+    width: 277px;
+    height: 69px;
+    left: 80px;
+    top: 620px;
+    background: #DAEFFC;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 5px 4px 4px #000000;
+    border-radius: 64px;
+}
+
+a.trailer{
+    position: absolute;
+    width: 172px;
+    height: 42px;
+    left: 52px;
+    top: 10px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 42px;
+    color: #000000;
+}
+img.simpsons-family{
+    position: absolute;
+    height: 753px;
+    left: 634px;
+    top: 220px;
 }
