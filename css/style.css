@@ -776,6 +776,15 @@ div .circle {
     border-radius: 50%;
     background: #8AC5EC;
  }
+
+ .homerS img {
+    position: absolute;
+    width: 188px;
+    height: 272px;
+    left: 20px;
+    top: -42px;
+    border-radius: 100px;
+ }
  .margeS {
     position: absolute;
     width: 229px;
@@ -785,6 +794,16 @@ div .circle {
     border-radius: 50%;
     background: #8AC5EC;
  }
+
+ .margeS img {
+    position: absolute;
+    width: 188px;
+    height: 272px;
+    left: 20px;
+    top: -42px;
+    border-radius: 100px;
+ }
+
  .bartS {
     position: absolute;
     width: 229px;
@@ -794,6 +813,16 @@ div .circle {
     border-radius: 50%;
     background: #8AC5EC;
  }
+
+ .bartS img {
+    position: absolute;
+    /* width: 188px; */
+    height: 273px;
+    left: 11px;
+    top: -42px;
+    border-radius: 100px;
+ }
+
  .lisaS {
     position: absolute;
     width: 229px;
@@ -803,12 +832,45 @@ div .circle {
     border-radius: 50%;
     background: #8AC5EC;
  }
+
+ .lisaS img {
+    position: absolute;
+    /* width: 188px; */
+    height: 257px;
+    left: 46px;
+    top: -24px;
+    border-radius: 100px;
+ }
+
  .maggieS {
     position: absolute;
     width: 229px;
     height: 229px;
     left: 1170px;
-        top: 3816px;
+    top: 3816px;
     border-radius: 50%;
     background: #8AC5EC;
+ }
+
+ .maggieS img {
+    position: absolute;
+    /* width: 188px; */
+    height: 250px;
+    left: 10px;
+    top: -17px;
+    border-radius: 100px;
+ }
+
+ .block-5 h4{
+    position: absolute;
+    width: 309px;
+    height: 27px;
+    left: 30px;
+    top: 216px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
  }
