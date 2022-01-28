@@ -641,7 +641,7 @@ h4.aired-e3{
 position: absolute;
 width: 387px;
 height: 66px;
-left: 196px;
+left: 80px;
 top: 2937px;
 font-family: Tahoma;
 font-style: normal;
@@ -652,14 +652,163 @@ color: #000000;
 }
 .block-4 p {
     position: absolute;
-    width: 387px;
-    height: 66px;
-    left: 196px;
-    top: 3089px;
+    width: 589px;
+    height: 448px;
+    left: 80px;
+    top: 3049px;
     font-family: Tahoma;
     font-style: normal;
     font-weight: normal;
-    font-size: 55px;
-    line-height: 66px;
-    color: #000000; 
+    font-size: 28px;
+    line-height: 32px;
+    color: #555555; 
 }
+.block-4 img {
+    position: absolute;
+    width: 476px;
+    height: 622px;
+    left: 956px;
+    top: 2977.66px;
+}
+
+div .elips{
+    position: absolute;
+    width: 417px;
+    height: 94px;
+    left: 1016px;
+    top: 3483px;
+    border-radius: 50%;
+    background: rgba(196, 196, 196, 0.5);
+}
+
+
+div .circle {
+    position: absolute;
+    width: 284px;
+    height: 284px;
+    left: 662px;
+    top: 3205px;
+    border-radius: 50%;
+    background: #7BBCE7;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 10px 4px 4px #000000;
+}
+
+.circle h3 {
+    position: absolute;
+    width: 154px;
+    height: 78px;
+    left: 70.79999999999995px;
+    /* top: 3358px; */
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #000000;
+    transform: rotate(5deg);
+}
+
+.circle p{
+    position: absolute;
+    width: 253.43px;
+    height: 136px;
+    left: 10.200000000000045px;
+    top: 90px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+    color: #555555;
+    transform: rotate(5deg);
+}
+
+.block-5 h2{
+    position: absolute;
+    width: 610px;
+    height: 72px;
+    left: 80px;
+    top: 3624px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 72px;
+    color: #000000;
+}
+
+.block-5 button.button-charactes{
+    position: absolute;
+    width: 423px;
+    height: 69px;
+    left: 989px;
+    top: 3681px;
+    background: #DAEFFC;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 5px 4px 4px #000000;
+    border-radius: 64px;
+ }
+ a.charactes  {
+    position: absolute;
+    width: 260px;
+    height: 42px;
+    left: 80px;
+    top: 13px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 42px;
+    color: #000000;
+ }
+
+ .homerS {
+    position: absolute;
+    width: 229px;
+    height: 229px;
+    left: 80px;
+    top: 3816px;
+    border-radius: 50%;
+    background: #8AC5EC;
+ }
+ .margeS {
+    position: absolute;
+    width: 229px;
+    height: 229px;
+    left: 351px;
+    top: 3816px;
+    border-radius: 50%;
+    background: #8AC5EC;
+ }
+ .bartS {
+    position: absolute;
+    width: 229px;
+    height: 229px;
+    left: 623px;
+    top: 3816px;
+    border-radius: 50%;
+    background: #8AC5EC;
+ }
+ .lisaS {
+    position: absolute;
+    width: 229px;
+    height: 229px;
+    left: 895px;
+        top: 3816px;
+    border-radius: 50%;
+    background: #8AC5EC;
+ }
+ .maggieS {
+    position: absolute;
+    width: 229px;
+    height: 229px;
+    left: 1170px;
+        top: 3816px;
+    border-radius: 50%;
+    background: #8AC5EC;
+ }
