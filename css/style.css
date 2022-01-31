@@ -1302,3 +1302,110 @@ h3.text-e3 {
     background: #8AC5EC;
 }
 
+.block-9 div.elips{
+    position: absolute;
+    width: 417px;
+    height: 94px;
+    left: 72px;
+    top: 465px;
+    border-radius: 50%;
+    background: rgba(196, 196, 196, 0.5);
+}
+
+.block-9 img {
+    position: absolute;
+    width: 458px;
+    height: 538px;
+    left: 31px;
+    top: -36px;
+}
+
+.block-9 h2 {
+    position: absolute;
+    width: 806px;
+    height: 72px;
+    left: 558px;
+    top: 0px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 72px;
+    color: #000000;
+}
+
+.block-9 p {
+    position: absolute;
+    width: 835px;
+    height: 144px;
+    left: 558px;
+    top: 103px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+}
+
+button.google-play, button.amazon, button.apple{
+    position: absolute;
+    width: 268px;
+    height: 84px;
+    top: 309px;
+    background: #FAE04B;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 5px 4px 4px #000000;
+    border-radius: 20px;
+}
+
+button.amazon{
+    left: 1135px;
+}
+
+button.google-play{
+    left: 844px;
+}
+
+button.apple {
+    left: 553px;
+}
+
+button.apple img, button.google-play img, button.amazon img{
+    position: absolute;
+    height: 62px;
+    width: 52px;
+    left: 8px;
+    top: 12px;
+}
+
+button.apple h5, button.google-play h5, button.amazon h5{
+    position: absolute;
+    width: 188px;
+    height: 30px;
+    left: 65px;
+    top: -37px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
+}
+
+button.apple h4, button.google-play h4, button.amazon h4 {
+    position: absolute;
+    width: 210px;
+    height: 42px;
+    left: 54px;
+    top: -13px;
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 42px;
+    color: #000000;
+}
+
+
