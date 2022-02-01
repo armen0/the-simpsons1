@@ -1210,202 +1210,299 @@ h3.text-e3 {
 }
 
 .block-8 h2 {
-    position: absolute;
-    width: 792px;
-    height: 66px;
-    left: 80px;
-    top: 6454px;
-    font-family: Tahoma;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 55px;
-    line-height: 66px;
-    color: #000000;
+	position: absolute;
+	width: 792px;
+	height: 66px;
+	left: 80px;
+	top: 6454px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	line-height: 66px;
+	color: #000000;
 }
 
 .block-8 p {
-    position: absolute;
-    width: 906px;
-    height: 36px;
-    left: 80px;
-    top: 6581px;
-    font-family: Tahoma;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 36px;
-    color: #000000;
+	position: absolute;
+	width: 906px;
+	height: 36px;
+	left: 80px;
+	top: 6581px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 36px;
+	color: #000000;
 }
 
 .block-8 input {
-    position: absolute;
-    width: 468px;
-    height: 63px;
-    left: 146px;
-    top: 6994px;
-    border: 3px solid #000000;
-    box-sizing: border-box;
-    filter: drop-shadow(5px 4px 4px #000000);
-    border-radius: 64px;
-    position: absolute;
-    width: 429px;
-    height: 54px;
-    left: 80px;
-    top: 6710px;
-    font-family: Tahoma;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    line-height: 39px;
-    color: #000000;
+	position: absolute;
+	width: 468px;
+	height: 63px;
+	left: 146px;
+	top: 6994px;
+	border: 3px solid #000000;
+	box-sizing: border-box;
+	filter: drop-shadow(5px 4px 4px #000000);
+	border-radius: 64px;
+	position: absolute;
+	width: 429px;
+	height: 54px;
+	left: 80px;
+	top: 6710px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	line-height: 39px;
+	color: #000000;
 }
 
 .block-8 button {
-    position: absolute;
-    width: 399px;
-    height: 63px;
-    left: 656px;
-    top: 6994px;
-    background: #FAE04B;
-    border: 1px solid #000000;
-    box-sizing: border-box;
-    box-shadow: 5px 4px 4px #000000;
-    border-radius: 64px;
-    position: absolute;
-    width: 430px;
-    height: 55px;
-    left: 545px;
-    top: 6710px;
-    font-family: Tahoma;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    line-height: 39px;
-    color: #000000;
+	position: absolute;
+	width: 399px;
+	height: 63px;
+	left: 656px;
+	top: 6994px;
+	background: #FAE04B;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	box-shadow: 5px 4px 4px #000000;
+	border-radius: 64px;
+	position: absolute;
+	width: 430px;
+	height: 55px;
+	left: 545px;
+	top: 6710px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	line-height: 39px;
+	color: #000000;
 }
 
 .block-8 img {
-    position: absolute;
-    width: 281px;
-    height: 430px;
-    left: 981px;
-    top: 6376px;
+	position: absolute;
+	width: 281px;
+	height: 430px;
+	left: 981px;
+	top: 6376px;
 }
 
-
-.block-9{
-    position: absolute;
-    width: 1434px;
-    height: 450px;
-    left: 0px;
-    top: 6940px;
-    background: #8AC5EC;
+.block-9 {
+	position: absolute;
+	width: 1434px;
+	height: 450px;
+	left: 0px;
+	top: 6940px;
+	background: #8AC5EC;
 }
 
-.block-9 div.elips{
-    position: absolute;
-    width: 417px;
-    height: 94px;
-    left: 72px;
-    top: 465px;
-    border-radius: 50%;
-    background: rgba(196, 196, 196, 0.5);
+.block-9 div.elips {
+	position: absolute;
+	width: 417px;
+	height: 94px;
+	left: 72px;
+	top: 465px;
+	border-radius: 50%;
+	background: rgba(196, 196, 196, 0.5);
 }
 
 .block-9 img {
-    position: absolute;
-    width: 458px;
-    height: 538px;
-    left: 31px;
-    top: -36px;
+	position: absolute;
+	width: 458px;
+	height: 538px;
+	left: 31px;
+	top: -36px;
 }
 
 .block-9 h2 {
-    position: absolute;
-    width: 806px;
-    height: 72px;
-    left: 558px;
-    top: 0px;
-    font-family: Tahoma;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 60px;
-    line-height: 72px;
-    color: #000000;
+	position: absolute;
+	width: 806px;
+	height: 72px;
+	left: 558px;
+	top: 0px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	line-height: 72px;
+	color: #000000;
 }
 
 .block-9 p {
-    position: absolute;
-    width: 835px;
-    height: 144px;
-    left: 558px;
-    top: 103px;
-    font-family: Tahoma;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 36px;
-    color: #000000;
+	position: absolute;
+	width: 835px;
+	height: 144px;
+	left: 558px;
+	top: 103px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 36px;
+	color: #000000;
 }
 
-button.google-play, button.amazon, button.apple{
-    position: absolute;
-    width: 268px;
-    height: 84px;
-    top: 309px;
-    background: #FAE04B;
-    border: 1px solid #000000;
-    box-sizing: border-box;
-    box-shadow: 5px 4px 4px #000000;
-    border-radius: 20px;
+button.google-play, button.amazon, button.apple {
+	position: absolute;
+	width: 268px;
+	height: 84px;
+	top: 309px;
+	background: #FAE04B;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	box-shadow: 5px 4px 4px #000000;
+	border-radius: 20px;
 }
 
-button.amazon{
-    left: 1135px;
+button.amazon {
+	left: 1135px;
 }
 
-button.google-play{
-    left: 844px;
+button.google-play {
+	left: 844px;
 }
 
 button.apple {
-    left: 553px;
+	left: 553px;
 }
 
-button.apple img, button.google-play img, button.amazon img{
-    position: absolute;
-    height: 62px;
-    width: 52px;
-    left: 8px;
-    top: 12px;
+button.apple img, button.google-play img, button.amazon img {
+	position: absolute;
+	height: 62px;
+	width: 52px;
+	left: 8px;
+	top: 12px;
 }
 
-button.apple h5, button.google-play h5, button.amazon h5{
-    position: absolute;
-    width: 188px;
-    height: 30px;
-    left: 65px;
-    top: -37px;
-    font-family: Tahoma;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 25px;
-    line-height: 30px;
-    color: #000000;
+button.apple h5, button.google-play h5, button.amazon h5 {
+	position: absolute;
+	width: 188px;
+	height: 30px;
+	left: 65px;
+	top: -37px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	line-height: 30px;
+	color: #000000;
 }
 
 button.apple h4, button.google-play h4, button.amazon h4 {
-    position: absolute;
-    width: 210px;
-    height: 42px;
-    left: 54px;
-    top: -13px;
-    font-family: Tahoma;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 35px;
-    line-height: 42px;
-    color: #000000;
+	position: absolute;
+	width: 210px;
+	height: 42px;
+	left: 54px;
+	top: -13px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	line-height: 42px;
+	color: #000000;
 }
 
+.footer img.logo {
+	position: absolute;
+	width: 150px;
+	left: 80px;
+	top: 7582px;
+}
 
+.footer .menu a {
+	position: absolute;
+	height: 33px;
+	left: 80px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	line-height: 33px;
+	color: #555555;
+	text-decoration-line: none;
+}
+
+.footer a.menu-about {
+	top: 7690px;
+}
+
+.footer a.menu-characters {
+	top: 7735px;
+}
+
+.footer a.menu-episodes {
+	top: 7780px;
+}
+
+.footer a.menu-wiki {
+	top: 7825px;
+}
+
+.footer input {
+	position: absolute;
+	width: 468px;
+	height: 63px;
+	left: 146px;
+	top: 8301px;
+	border: 3px solid #000000;
+	box-sizing: border-box;
+	filter: drop-shadow(5px 4px 4px #000000);
+	border-radius: 64px;
+	position: absolute;
+	width: 429px;
+	height: 54px;
+	left: 80px;
+	top: 7871px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	line-height: 39px;
+	color: #000000;
+}
+
+.footer img.instagram {
+	position: absolute;
+	width: 64px;
+	left: 80px;
+	top: 7952px;
+}
+
+.footer img.facebook {
+	position: absolute;
+	width: 64px;
+	left: 150px;
+	top: 7952px;
+}
+
+.footer img.twitter {
+	position: absolute;
+	width: 64px;
+	left: 220px;
+	top: 7952px;
+}
+
+.footer h3 {
+	position: absolute;
+	width: 396px;
+	height: 84px;
+	left: 79px;
+	top: 8016px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: #000000;
+}
+
+.footer img.full-family {
+	position: absolute;
+	width: 561px;
+	left: 862px;
+	top: 7537px;
+}
