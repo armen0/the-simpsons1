@@ -3,6 +3,7 @@ body {
 	width: 1200px;
 	background: #F2FAFE;
 	margin: 0px;
+	padding: 0px;
 	margin-top: -20px;
 }
 
@@ -1505,4 +1506,47 @@ button.apple h4, button.google-play h4, button.amazon h4 {
 	width: 561px;
 	left: 862px;
 	top: 7537px;
+}
+
+button.button-watch-now:hover,
+.block-3 button.button-watch-now:hover, 
+.block-6 button.button-buy-now:hover, 
+.block-8 button:hover,
+button.google-play:hover,
+button.amazon:hover,
+button.apple:hover{
+    background: #d6aa44;
+}
+button.button-trailer:hover,
+.block-1 button.button-seeall:hover,
+.block-2 button.button-seeall:hover,
+.block-3 button.button-trailer:hover,
+.block-6 button.button-products:hover,
+.block-5 button.button-charactes:hover
+{
+
+background:#4f84b0;
+}
+
+
+button.button-watch-now:active,
+.block-3 button.button-watch-now:active, 
+.block-6 button.button-buy-now:active, 
+.block-8 button:active,
+button.google-play:active,
+button.amazon:active,
+button.apple:active{
+    background: #f8d84e
+	;
+}
+
+button.button-trailer:active,
+.block-1 button.button-seeall:active,
+.block-2 button.button-seeall:active,
+.block-3 button.button-trailer:active,
+.block-6 button.button-products:active,
+.block-5 button.button-charactes:active
+{
+
+background:#86cdf1;
 }
