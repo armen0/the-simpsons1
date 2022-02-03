@@ -27,30 +27,30 @@ div.sky {
 div.menu a {
 	position: absolute;
 	height: 33px;
-	top: 50px;
+	top: 33px;
 	font-family: Tahoma;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 27px;
+	font-size: 15px;
 	line-height: 33px;
 	color: #000000;
 	text-decoration-line: none;
 }
 
 a.menu-about {
-	left: 440px;
+	left: 200px;
 }
 
 a.menu-characters {
-	left: 540px;
+	left: 250px;
 }
 
 a.menu-episodes {
-	left: 700px;
+	left: 333px;
 }
 
 a.menu-wiki {
-	left: 835px;
+	left: 405px;
 }
 
 img.logo {
@@ -1514,20 +1514,18 @@ button.button-watch-now:hover,
 .block-8 button:hover,
 button.google-play:hover,
 button.amazon:hover,
-button.apple:hover{
-    background: #d6aa44;
+button.apple:hover {
+	background: #d6aa44;
 }
+
 button.button-trailer:hover,
 .block-1 button.button-seeall:hover,
 .block-2 button.button-seeall:hover,
 .block-3 button.button-trailer:hover,
 .block-6 button.button-products:hover,
-.block-5 button.button-charactes:hover
-{
-
-background:#4f84b0;
+.block-5 button.button-charactes:hover {
+	background: #4f84b0;
 }
-
 
 button.button-watch-now:active,
 .block-3 button.button-watch-now:active, 
@@ -1535,9 +1533,8 @@ button.button-watch-now:active,
 .block-8 button:active,
 button.google-play:active,
 button.amazon:active,
-button.apple:active{
-    background: #f8d84e
-	;
+button.apple:active {
+	background: #f8d84e;
 }
 
 button.button-trailer:active,
@@ -1545,8 +1542,336 @@ button.button-trailer:active,
 .block-2 button.button-seeall:active,
 .block-3 button.button-trailer:active,
 .block-6 button.button-products:active,
-.block-5 button.button-charactes:active
-{
+.block-5 button.button-charactes:active {
+	background: #86cdf1;
+}
 
-background:#86cdf1;
+@media screen and (max-width: 800px) {
+	div.header {
+		position: absolute;
+		width: 517px;
+		height: 380px;
+		left: 0px;
+		top: 0px;
+		background: #8AC5EC;
+	}
+
+	.header img.sky {
+		position: absolute;
+    /* width: 625px; */
+		height: 329px;
+		left: 0px;
+		top: 0px;
+	}
+
+	img.simpsons-family {
+		position: absolute;
+		height: 316px;
+		left: 218px;
+		top: 119px;
+	}
+
+	img.logo {
+		position: absolute;
+		width: 110px;
+		left: 11px;
+		top: 25px;
+	}
+
+	h1 {
+		position: absolute;
+		width: 362px;
+		height: 84px;
+		left: 13px;
+		top: 59px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		line-height: 84px;
+		color: #000000;
+	}
+
+	p {
+		position: absolute;
+		width: 280px;
+		height: 150px;
+		left: 13px;
+		top: 125px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		line-height: 18px;
+		color: #555555;
+	}
+
+	button.button-watch-now {
+		position: absolute;
+		width: 173px;
+		height: 34px;
+		left: 12px;
+		top: 237px;
+		background: #FAE04B;
+		border: 1px solid #000000;
+		box-sizing: border-box;
+		box-shadow: 5px 4px 4px #000000;
+		border-radius: 64px;
+	}
+
+	a.watch-now {
+		position: absolute;
+		width: 172px;
+		height: 42px;
+		left: 0px;
+		top: -6px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 42px;
+		color: #000000;
+	}
+
+	button.button-trailer {
+		position: absolute;
+		width: 95px;
+		height: 34px;
+		left: 12px;
+		top: 277px;
+		background: #DAEFFC;
+		border: 1px solid #000000;
+		box-sizing: border-box;
+		box-shadow: 5px 4px 4px #000000;
+		border-radius: 64px;
+	}
+
+	img.fox {
+		position: absolute;
+		width: 28.909999999999997px;
+		height: 12px;
+		left: 22px;
+		top: 340px;
+	}
+
+	img.disney {
+		position: absolute;
+		width: 44.91px;
+		left: 56px;
+		top: 339px;
+	}
+
+	img.hulu {
+		position: absolute;
+		width: 38.91px;
+		left: 106px;
+		top: 343px;
+	}
+
+	a.trailer {
+		position: absolute;
+		width: 172px;
+		height: 42px;
+		left: -39px;
+		top: -5px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 42px;
+		color: #000000;
+	}
+
+	.block-1 h2 {
+		position: absolute;
+		width: 417px;
+		height: 72px;
+		left: 35px;
+		top: 409px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		line-height: 72px;
+		color: #000000;
+	}
+
+	.block-1 button.button-seeall {
+		position: absolute;
+		width: 95px;
+		height: 42px;
+		left: 400px;
+		top: 450px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 42px;
+		color: #000000;
+	}
+
+	a.seeall {
+		position: absolute;
+		width: 172px;
+		height: 24px;
+		left: -40px;
+		top: 0px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		line-height: 42px;
+		color: #000000;
+	}
+	
+	img.e1 {
+		position: absolute;
+		width: 310px;
+		height: 190px;
+		left: 103px;
+		top: 527px;
+		border-radius: 40px;
+	}
+	h3.name-e1 {
+		position: absolute;
+		width: 263px;
+		height: 27px;
+		left: 124px;
+		top: 707px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		line-height: 27px;
+		color: #000000;
+	}
+
+	h4.aired-e1 {
+		position: absolute;
+		width: 252px;
+		height: 27px;
+		left: 124px;
+		top: 803px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		line-height: 27px;
+		color: rgba(85, 85, 85, 0.5);
+	}
+
+	p.text-e1 {
+		position: absolute;
+		width: 265px;
+		height: 75px;
+		left: 124px;
+		top: 739px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		line-height: 19px;
+		color: #000000;
+	}
+
+	img.e2 {
+		position: absolute;
+		width: 310px;
+		height: 190px;
+		left: 103px;
+		top: 874px;
+		border-radius: 40px;
+	}
+
+	img.e3 {
+		position: absolute;
+		width: 310px;
+		height: 190px;
+		left: 103px;
+		top: 1230px;
+						border-radius: 40px;
+	}
+
+	h3.name-e2 {
+		position: absolute;
+		width: 263px;
+		height: 27px;
+		left: 124px;
+		top: 1059px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		line-height: 27px;
+		color: #000000;
+	}
+
+	h3.name-e3 {
+		position: absolute;
+		width: 263px;
+		height: 27px;
+		left: 124px;
+		top: 1413px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		line-height: 27px;
+		color: #000000;
+	}
+
+	p.text-e2 {
+		position: absolute;
+		width: 265px;
+		height: 75px;
+		left: 124px;
+		top: 1090px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		line-height: 19px;
+		color: #000000;
+	}
+
+	p.text-e3 {
+		position: absolute;
+		width: 265px;
+		height: 75px;
+		left: 124px;
+		top: 1469px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		line-height: 19px;
+		color: #000000;
+	}
+	h4.aired-e2 {
+		position: absolute;
+		width: 252px;
+		height: 27px;
+		left: 124px;
+		top: 1154px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		line-height: 27px;
+		color: rgba(85, 85, 85, 0.5);
+	}
+
+	h4.aired-e3 {
+		position: absolute;
+		width: 252px;
+		height: 27px;
+		left: 124px;
+		top: 1532px;
+		font-family: Tahoma;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		line-height: 27px;
+		color: rgba(85, 85, 85, 0.5);
+	}
 }
